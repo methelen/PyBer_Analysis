@@ -10,5 +10,7 @@ As the analysis shows, urban city types account for a majority of the rides, dri
 
 This is directly correlated to the general populations in these city types. Urban areas have higher populations and it is no surprise that they utilize these ride sharing services more frequently than other city types. The _Average Fare per Ride_ and _Average Fare per Driver_ is higher in rural cities. The higher fare cost may deter rural customers from using these services. Lower fares is correlated with more rides. There is a larger amount of drivers than rides in urban cities.
 
+https://github.com/methelen/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png?raw=true
+
 ## Summary
 I recommend PyBer increase its presence in rural cities, lower its fares in suburban areas, and decrease the number of drivers in urban areas to increase its profitability.
